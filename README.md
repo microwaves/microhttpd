@@ -1,6 +1,6 @@
 # microhttpd
 
-Micro-micro-mini httpd server powered by Go's net/http.
+Micro-micro-micro httpd server powered by Go's net/http.
 
 Configuration
 ------------
