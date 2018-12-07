@@ -26,3 +26,13 @@ Example:
 ```
 $ microhttpd -serve /path/to/my/static/files/
 ```
+Docker
+------
+
+There's a Docker image available on the Docker Hub. Just use `microwaves/microhttpd:latest`
+in your Dockerfiles or Kubernetes deployment.
+
+Author
+------
+
+Stephano Zanzin <@microwaves>
